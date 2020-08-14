@@ -1,0 +1,19 @@
+'http://api.openweathermap.org/data/2.5/weather?q=SaoPaulo,BR&units=metric&APPID=8540b755cdf75a1ec040ab2723be2591
+
+Substitua {{{{APIKEY}}}} pela sua chave de API
+8540b755cdf75a1ec040ab2723be2591
+
+'http://api.openweathermap.org/data/2.5/weather?q=SaoPaulo,BR&units=metric&APPID=8540b755cdf75a1ec040ab2723be2591
+
+https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=8540b755cdf75a1ec040ab2723be2591
+
+https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=439d4b804bc8187953eb36d2a8c26a02
+
+
+https://samples.openweathermap.org/data/2.5/weather?q=saopaulo,br&appid=8540b755cdf75a1ec040ab2723be2591
+
+
+api.openweathermap.org/data/2.5/weather?q=SaoPaulo&appid=8540b755cdf75a1ec040ab2723be2591
+
+OKKKKK
+http://api.openweathermap.org/data/2.5/weather?q=S%C3%A3o%20Paulo,Br&appid=8540b755cdf75a1ec040ab2723be2591&lang=pt_br
