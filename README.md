@@ -9,7 +9,7 @@ https://angularjs.org/
 "O Angular JS é um framework de desenvolvimento web com diversas aplicações, 
 desde o desenvolvimento de websites a criação de aplicações web."
 
-**OpenWeather**
+**OpenWeatherMap**
 
 https://openweathermap.org/
 
